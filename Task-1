@@ -1,0 +1,19 @@
+Task Title: Implement a Simple Calculator
+
+Task Description:
+You are tasked with developing a simple calculator program in a programming language of your choice (e.g., Python, Java, C++). The calculator should be able to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program should prompt the user to input two numbers and then select the operation they want to perform. After executing the operation, the program should display the result to the user.
+
+Requirements:
+1. The program should provide a menu for the user to select the desired operation (addition, subtraction, multiplication, division).
+2. The program should prompt the user to input two numbers.
+3. The program should perform the selected arithmetic operation on the input numbers.
+4. Division by zero should be handled gracefully, displaying an appropriate error message to the user.
+5. The program should display the result of the operation to the user.
+6. The program should allow the user to perform multiple calculations in a single session until they choose to exit.
+
+Additional Features (Optional):
+- Implement support for additional arithmetic operations such as exponentiation or square root.
+- Add error handling to validate user input (e.g., ensuring numeric input for numbers).
+- Implement a loop to allow the user to perform multiple calculations without restarting the program.
+
+GitHub Repository:
