@@ -33,9 +33,14 @@ Upload it to registry using login PAT
  docker login -u smitwaman 
 
 
-docker push smitwaman/simple-calculator .
+docker push smitwaman/simple-calculator:v5 .
 
 And simply using pull command we can run our python project.
 
-For ex: docker pull smitwaman/simple-calculator:v4
+For ex: docker pull smitwaman/simple-calculator:v5
+
+for running python code in interactive mode we need to use -t -i with run command
+
+sudo docker run -it smitwaman/simple-calculator:v5
+
 
