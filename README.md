@@ -1,4 +1,4 @@
-# Simple-Calculator
+# Simple-Calculator@signimus
 
 This project is simple python program for calculator having basic operations as (+,-,*,/).
 It takes input from user as num1 and num2 
