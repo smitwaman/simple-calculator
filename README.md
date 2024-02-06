@@ -22,7 +22,7 @@ Make port 8080 available to the world outside this container
 Run app.py when the container launches
  CMD ["python", "app.py"]
 
-Using these steps we can create dockerimage and uplod it to registry
+Using these steps we can create dockerimage and upload it to registry
 And simply using pull command we can run our python project.
 
 For ex: docker pull ghcr.io/smitwaman/simple-calculator:sha256-bacc377f35d9bb9a1169fd844468f72bd13bc6990858b1db3d1bb8eb7b7efa20.sig
