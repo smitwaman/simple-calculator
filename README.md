@@ -1,4 +1,4 @@
-# SimpleCalculator@signimus
+# simple-calculator@signimus
 
 This project is simple python program for calculator having basic operations as (+,-,*,/).
 For testing program run following commands using docker
