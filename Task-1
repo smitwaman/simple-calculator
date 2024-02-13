@@ -1,4 +1,7 @@
-Task Title: Implement a Simple Calculator
+Task Title: 
+Implement a Simple Calculator.
+Write Dockefile for python program
+Create docker image using docker tool and upload it to dockerhub.
 
 Task Description:
 You are tasked with developing a simple calculator program in a programming language of your choice (e.g., Python, Java, C++). The calculator should be able to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program should prompt the user to input two numbers and then select the operation they want to perform. After executing the operation, the program should display the result to the user.
